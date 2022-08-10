@@ -1,0 +1,15 @@
+C:\Users\79095\Desktop\test 1 part\task1quart\bin\Debug\net6.0\task1quart.exe
+C:\Users\79095\Desktop\test 1 part\task1quart\bin\Debug\net6.0\task1quart.deps.json
+C:\Users\79095\Desktop\test 1 part\task1quart\bin\Debug\net6.0\task1quart.runtimeconfig.json
+C:\Users\79095\Desktop\test 1 part\task1quart\bin\Debug\net6.0\task1quart.dll
+C:\Users\79095\Desktop\test 1 part\task1quart\bin\Debug\net6.0\task1quart.pdb
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.csproj.AssemblyReference.cache
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.AssemblyInfoInputs.cache
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.AssemblyInfo.cs
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.csproj.CoreCompileInputs.cache
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.dll
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\refint\task1quart.dll
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.pdb
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\task1quart.genruntimeconfig.cache
+C:\Users\79095\Desktop\test 1 part\task1quart\obj\Debug\net6.0\ref\task1quart.dll
